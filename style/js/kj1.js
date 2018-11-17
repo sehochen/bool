@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".nav").find("ul li").hover(function(){$(this).find(".qq").show("fast");$(this).find("div").show("fast");},function(){$(this).find("div").hide("fast");$(this).find(".qq").hide("fast");});});

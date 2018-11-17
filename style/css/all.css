@@ -1,0 +1,55 @@
+@charset "gb2312";
+/*==公用样式开始===*/
+body,ul,li,dl,dt,dd,h1,h2,h3,h4,h5,ol,table,tr,td,form,p{margin:0;padding:0}
+*{ padding:0px; margin:0px;}
+*html{background-image:url(about:blank);background-attachment:fixed;}/*解决IE6下滚动抖动的问题*/
+body{ background:url(../images/kj1/bodybg.gif) repeat-x top left;}
+.w{width:100%;}
+.h{height:100%;}
+.w980{width:980px;}
+.w950{width:950px;}
+.w1002{width:1002px;}
+.w1007{width:1009px;}
+.lili li{display:inline;}
+.lile li{ float:left;}
+.k2 li{ margin:0 2px;}
+em{ font-style:normal;}
+.bkall{float:left;width:100%; display:block; font-size:1px;}
+.block5{  height:5px; line-height:5px; }
+.block10{ height:10px; line-height:10px;}
+.block15{ height:15px; line-height:15px; }
+.block25{ height:25px; line-height:25px; }
+.f12{font-size:12px;}
+.f14{ font-size:14px;}
+.l{float:left;}
+.r{float:right;}
+.c{margin:0 auto;}
+.in{display:inline;}
+.hid{overflow:hidden;}
+.lh20{line-height:20px;}
+.lh22{line-height:22px;}
+.lh18{line-height:18px;}
+.lh100{ line-height:100%;}
+a{text-decoration:none;}
+li,dt,dd{list-style:none;}
+.pl5{ padding-left:5px;}
+.pa5{ padding:0 5px;}
+.mtop5{margin-top:5px;}
+.mtop3{margin-top:3px;}
+.mtop2{margin-top:2px;}
+.mtop10{ margin-top:10px;}
+.mtop35{ margin-top:35px;}
+.ptop5{padding-top:5px;}
+.ptop3{padding-top:3px;}
+.ptop10{padding-top:10px;}
+a img{ border:none;}
+.ullial li a,.ullial li em{float:left;}
+.letterp1{letter-spacing:1px;}
+.zjuz{text-align:center;}
+.fwt{font-weight:100;}
+.dnone{display:none;}
+.dblock{ display:block;}
+.bgcen{background-position:top center;}
+.bgnp{background-repeat:no-repeat;}
+.bgbai{ background:#ffffff;}
+.p5{ padding:5px 0;}
